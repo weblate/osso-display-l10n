@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-display 20090928114617\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.09.28 11:46+0300\n"
+"PO-Revision-Date: 2009.09.28 11:46+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "disp_fi_backlight_period"
+msgstr "Время выключения подсветки"
+
+msgid "disp_fi_brightness"
+msgstr "Яркость"
+
+msgid "disp_fi_display_stays_on"
+msgstr "Включать подсветку экрана при зарядке"
+
+msgid "disp_fi_lock_screen"
+msgstr "Автоматически блокировать экран"
+
+msgid "disp_fi_power_save_mode"
+msgstr "Энергосберегающий режим"
+
+msgid "disp_fi_touchscreen_vibration"
+msgstr "Сенсорный экран с вибрацией"
+
+msgid "disp_li_led_charging"
+msgstr "Заряжается"
+
+msgid "disp_li_led_device_on"
+msgstr "Когда устройство включено"
+
+msgid "disp_li_led_missed_calls"
+msgstr "Пропущенный вызов"
+
+msgid "disp_li_led_other_notifications"
+msgstr "При других уведомлениях"
+
+msgid "disp_li_led_received_chat"
+msgstr "При получении мгновенного сообщения"
+
+msgid "disp_li_led_received_email"
+msgstr "При получении сообщения эл. почты"
+
+msgid "disp_li_led_received_sms"
+msgstr "При получении текстового сообщения"
+
+msgid "disp_ti_display"
+msgstr "Экран"
+
+msgid "disp_va_do_2"
+msgid_plural "disp_va_gene_2"
+msgstr[0] "%d минута"
+msgstr[1] "%d минуты"
+msgstr[2] "%d минут"
+
+msgid "disp_va_gene_0"
+msgid_plural "disp_va_gene_1"
+msgstr[0] "%d секунда"
+msgstr[1] "%d секунды"
+msgstr[2] "%d секунд"
+
+msgid "led_ti_led"
+msgstr "Индикатор уведомлений"
