@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-display 20090928114617\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.09.28 11:46+0300\n"
+"PO-Revision-Date: 2009-10-22 13:45+0200\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "disp_fi_backlight_period"
+msgstr "Časový limit podsvietenia"
+
+msgid "disp_fi_brightness"
+msgstr "Jas"
+
+msgid "disp_fi_display_stays_on"
+msgstr "Displej zostane pri nabíjaní rozsvietený"
+
+msgid "disp_fi_lock_screen"
+msgstr "Automatický zámok displeja"
+
+msgid "disp_fi_power_save_mode"
+msgstr "Úsporný režim"
+
+msgid "disp_fi_touchscreen_vibration"
+msgstr "Vibrácie dotykového displeja"
+
+msgid "disp_li_led_charging"
+msgstr "Nabíjanie"
+
+msgid "disp_li_led_device_on"
+msgstr "Prístroj zapnutý"
+
+msgid "disp_li_led_missed_calls"
+msgstr "Zmeškané hovory"
+
+msgid "disp_li_led_other_notifications"
+msgstr "Ostatné upozornenia"
+
+msgid "disp_li_led_received_chat"
+msgstr "Prijatá správa IM"
+
+msgid "disp_li_led_received_email"
+msgstr "Prijatá e-mailová správa"
+
+msgid "disp_li_led_received_sms"
+msgstr "Prijatá správa SMS"
+
+msgid "disp_ti_display"
+msgstr "Displej"
+
+msgid "disp_va_do_2"
+msgid_plural "disp_va_gene_2"
+msgstr[0] "%d minúta"
+msgstr[1] "%d minúty"
+msgstr[2] "%d minút"
+
+msgid "disp_va_gene_0"
+msgid_plural "disp_va_gene_1"
+msgstr[0] "%d sekunda"
+msgstr[1] "%d sekundy"
+msgstr[2] "%d sekúnd"
+
+msgid "led_ti_led"
+msgstr "Svetelné upozornenia"
