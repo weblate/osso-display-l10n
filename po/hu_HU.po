@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-display 20090928114617\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.09.28 11:46+0300\n"
+"PO-Revision-Date: 2010-03-05 16:49+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "disp_fi_backlight_period"
+msgstr "Háttérvilágítás ideje"
+
+msgid "disp_fi_brightness"
+msgstr "Fényerő"
+
+msgid "disp_fi_display_stays_on"
+msgstr "Kijelző világít töltés közben"
+
+msgid "disp_fi_lock_screen"
+msgstr "Kijelző lezárása automatikusan"
+
+msgid "disp_fi_power_save_mode"
+msgstr "Energiatakarékos mód"
+
+msgid "disp_fi_touchscreen_vibration"
+msgstr "Kijelző rezgés"
+
+msgid "disp_li_led_charging"
+msgstr "Töltés"
+
+msgid "disp_li_led_device_on"
+msgstr "Eszköz bekapcsolva"
+
+msgid "disp_li_led_missed_calls"
+msgstr "Nem fogadott hívások"
+
+msgid "disp_li_led_other_notifications"
+msgstr "Egyéb értesítések"
+
+msgid "disp_li_led_received_chat"
+msgstr "Azonnali üzenet érkezése"
+
+msgid "disp_li_led_received_email"
+msgstr "E-mail üzenet érkezése"
+
+msgid "disp_li_led_received_sms"
+msgstr "SMS érkezése"
+
+msgid "disp_ti_display"
+msgstr "Megjelenítés"
+
+msgid "disp_va_do_2"
+msgid_plural "disp_va_gene_2"
+msgstr[0] "%d perc"
+msgstr[1] "%d perc"
+
+msgid "disp_va_gene_0"
+msgid_plural "disp_va_gene_1"
+msgstr[0] "%d másodperc"
+msgstr[1] "%d másodperc"
+
+msgid "led_ti_led"
+msgstr "Értesítő ledfény"
+
