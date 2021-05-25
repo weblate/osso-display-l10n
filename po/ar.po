@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-display 20090928114617\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.09.28 11:46+0300\n"
+"PO-Revision-Date: 2010-04-29 19:21+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "disp_fi_backlight_period"
+msgstr "أنتهاء مهلة الإضاءة"
+
+msgid "disp_fi_brightness"
+msgstr "السطوع"
+
+msgid "disp_fi_display_stays_on"
+msgstr "تشغيل الأضائه أثناء الشحن "
+
+msgid "disp_fi_lock_screen"
+msgstr "قفل الشاشة تلقائيا ً"
+
+msgid "disp_fi_power_save_mode"
+msgstr "وضع حفظ الطاقة"
+
+msgid "disp_fi_touchscreen_vibration"
+msgstr "الأهتزاز عند لمس الشاشة"
+
+msgid "disp_li_led_charging"
+msgstr "أثناء الشحن"
+
+msgid "disp_li_led_device_on"
+msgstr "تشغيل الجهاز"
+
+msgid "disp_li_led_missed_calls"
+msgstr "مكالمات لم يرد عليها"
+
+msgid "disp_li_led_other_notifications"
+msgstr "تنبيهات أخرى"
+
+msgid "disp_li_led_received_chat"
+msgstr "أستلام رسائل المحادثة"
+
+msgid "disp_li_led_received_email"
+msgstr "أستلام رسائل البريد الألكتروني"
+
+msgid "disp_li_led_received_sms"
+msgstr "أستلام الرسائل القصيرة"
+
+msgid "disp_ti_display"
+msgstr "عرض"
+
+msgid "disp_va_do_2"
+msgid_plural "disp_va_gene_2"
+msgstr[0] "%d دقيقة"
+msgstr[1] "%d دقيقة"
+
+msgid "disp_va_gene_0"
+msgid_plural "disp_va_gene_1"
+msgstr[0] "%d ثانية"
+msgstr[1] "%d ثانية"
+
+msgid "led_ti_led"
+msgstr "أضواء التنبيه"
+
