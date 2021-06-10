@@ -1,0 +1,69 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.09.28 11:46+0300\n"
+"PO-Revision-Date: 2011-11-06 15:37+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "disp_fi_backlight_period"
+msgstr "زمان خاموش شدن نور صفحه"
+
+msgid "disp_fi_brightness"
+msgstr "روشنایی"
+
+msgid "disp_fi_display_stays_on"
+msgstr "نمایش زمان شارژ"
+
+msgid "disp_fi_lock_screen"
+msgstr "قفل  صفحه بصورت خودکار"
+
+msgid "disp_fi_power_save_mode"
+msgstr "حالت ذخیره‌ی انرژی"
+
+msgid "disp_fi_touchscreen_vibration"
+msgstr "ویبره‌ی صفحه نمایش"
+
+msgid "disp_li_led_charging"
+msgstr "در حال شارژ"
+
+msgid "disp_li_led_device_on"
+msgstr "دستگاه روشن"
+
+msgid "disp_li_led_missed_calls"
+msgstr "تماس نا موفق"
+
+msgid "disp_li_led_other_notifications"
+msgstr "سایر اطلاع‌رسانی‌ها"
+
+msgid "disp_li_led_received_chat"
+msgstr "پیام فوری جدید "
+
+msgid "disp_li_led_received_email"
+msgstr "ایمیل جدید"
+
+msgid "disp_li_led_received_sms"
+msgstr "پیام کوتاه جدید"
+
+msgid "disp_ti_display"
+msgstr "صفحه نمایش"
+
+msgid "disp_va_do_2"
+msgid_plural "disp_va_gene_2"
+msgstr[0] ""
+
+msgid "disp_va_gene_0"
+msgid_plural "disp_va_gene_1"
+msgstr[0] ""
+
+msgid "led_ti_led"
+msgstr "چراغ اطلاع‌رسانی"
